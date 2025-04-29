@@ -1,44 +1,81 @@
-<h1 align="center">Hi 👋, I'm Divya Pundir</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<br clear="both">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pundirdiya898&label=Profile%20views&color=0e75b6&style=flat" alt="pundirdiya898" /> </p>
+<div align="center">
+  <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmh2azg4ejJzNXA3bW00eTFjMWgweWZsYnM4aDZhbHA5cnNwM3VxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+</div>
 
-- 🔭 I’m currently working on **Movie Recommendation System**
+###
 
-- 🌱 I’m currently learning **Machine Learning and Deep learning**
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+</div>
 
-- 👯 I’m looking to collaborate on **Kaggle**
+###
 
-- 🤝 I’m looking for help with **My Future Projects**
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pundirdiya898.pundirdiya898&"  />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/divya-pundir/project-page](https://sites.google.com/view/divya-pundir/project-page)
+###
 
-- 📝 I regularly write articles on [https://medium.com/@pundirdivya898](https://medium.com/@pundirdivya898)
+<h1 align="center">Hey there👋 I am Divya Pundir</h1>
 
-- 💬 Ask me about **Data Analysis, Automation, Python, Tableau, ETL, Dashboards etc.**
+###
 
-- 📫 How to reach me **pundirdivya898@gmail.com**
+<h3 align="left">👩‍💻  About Me</h3>
 
-- 📄 Know about my experiences [https://sites.google.com/view/divya-pundir/resume?authuser=0](https://sites.google.com/view/divya-pundir/resume?authuser=0)
+###
 
-- ⚡ Fun fact **Amid Data Analyst with Philosophical mindset.**
+<p align="left">I'm ... from ....<br><br>🔭 I’m currently working on Movie Recommendation System<br><br>🌱 I’m currently learning Machine Learning and Deep learning<br><br>👯 I’m looking to collaborate on Kaggle<br><br>🤝 I’m looking for help with My Future Projects<br><br>👨‍💻 All of my projects are available at https://sites.google.com/view/divya-pundir/project-page<br><br>📝 I regularly write articles on https://medium.com/@pundirdivya898<br><br>💬 Ask me about Data Analysis, Automation, Python, Tableau, ETL, Dashboards etc.<br><br>📫 How to reach me pundirdivya898@gmail.com<br><br>📄 Know about my experiences https://sites.google.com/view/divya-pundir/resume?authuser=0<br><br>⚡ Fun fact Amid Data Analyst with Philosophical mindset.</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/divya-pundir-32b324166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya-pundir-32b324166" height="30" width="40" /></a>
-<a href="https://kaggle.com/divyapundir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="divyapundir" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pundirdivya898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pundirdivya898" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h3 align="left">🛠 Language and tools</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pundirdiya898&show_icons=true&locale=en&layout=compact" alt="pundirdiya898" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pundirdiya898&show_icons=true&locale=en" alt="pundirdiya898" /></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pundirdiya898&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pundirdiya898&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=pundirdiya898&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 
 ### 🐍 GitHub Contribution Snake
 
 ![GitHub Snake](https://github.com/pundirdiya898/pundirdiya898/blob/output/github-snake.svg)
-
-![GitHub Snake Dark](https://github.com/pundirdiya898/pundirdiya898/blob/output/github-snake-dark.svg?palette=github-dark)
